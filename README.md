@@ -1,4 +1,4 @@
-## Fala Dev! Eu sou o Cadu desenvolvedor Javascript
+## Fala Dev! Eu sou o Cadu desenvolvedor Javascript/TypeScript, minha Stack favorita e na qual trabalho no momento é a React.js, React-Native, Next.Js, Node.js e Deno
  <div>
   <a href="https://github.com/caduDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaduDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact"/>
